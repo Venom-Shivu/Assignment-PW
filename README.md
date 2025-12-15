@@ -30,6 +30,8 @@ The goal is to showcase how Excel can be used to clean, analyze, and visualize d
 - Strengthen formula-writing and data manipulation skills.
 - Ensure data accuracy and integrity with validation rules.
 
+--- 
+
 ## 📌 Author
 👤 Shivansh (Venom-Shivu)
 Passionate about Excel dashboards, data visualization, and user-friendly analysis tools.
