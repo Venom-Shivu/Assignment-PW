@@ -1,4 +1,3 @@
-Here’s a **clean, professional, no-fluff rewrite**. I tightened the language, removed redundancy, fixed structure, and made it read like a serious portfolio repo instead of a classroom submission.
 
 ---
 
