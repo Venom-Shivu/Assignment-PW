@@ -60,7 +60,7 @@ The purpose is simple: **demonstrate practical Excel skills for cleaning, analyz
 
 ## 👤 Author
 
-**Shivansh Yadav (Venom)**
+**Shivansh Yadav **
 Focused on Excel dashboards, data visualization, and building clear, user-friendly analysis tools.
 
 ---
