@@ -68,5 +68,6 @@ Each question is listed with the complete task and a concise explanation of the 
 ---
 
 ### Author
-Prepared by **Shivansh Yadav (Venom-Shivu)**  
+Prepared by **Shivansh Yadav**  
+
 Focus: Clarity, collaboration, and visual polish in technical learning.
