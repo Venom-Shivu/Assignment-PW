@@ -1,7 +1,7 @@
 # DPP – Understanding Data Types and Data Sources
 
 This Repository contains solutions for the **PwSkills DPP: Understanding Data Types and Data Sources**.  
-All theory questions, detailed explanations, outputs, and interview preparation are documented in the **DOCX file** included in this repository.
+All theory questions, detailed explanations, outputs, and interview preparation are documented in the **PDF file** included in this repository.
 
 ---
 
@@ -32,4 +32,5 @@ All theory questions, detailed explanations, outputs, and interview preparation 
 
 ## ✅ Status
 - Assignment Completed
+
 
