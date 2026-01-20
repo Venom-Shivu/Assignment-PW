@@ -1,4 +1,5 @@
-![MySQL Data Analysis Banner](https://raw.githubusercontent.com/mysql/mysql-server/trunk/docs/images/mysql-logo.png)
+![My Dynamic MySQL Banner](https://api.yourwebsite.com)
+
 
 # 🗄️ MySQL Assignments for Data Analysis
 
@@ -80,3 +81,4 @@ This keeps the repository **scalable, clean, and easy to navigate**.
 
 **Shivansh Yadav**  
 Aspiring Data Analyst / Data Scientist  
+
