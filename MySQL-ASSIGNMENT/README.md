@@ -1,4 +1,5 @@
-![My Dynamic MySQL Banner](https://api.yourwebsite.com)
+![MySQL Data Analysis Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00758F,100:F29111&height=220&section=header&text=MySQL%20Assignments%20for%20Data%20Analysis&fontSize=36&fontColor=ffffff)
+
 
 
 # 🗄️ MySQL Assignments for Data Analysis
@@ -81,4 +82,5 @@ This keeps the repository **scalable, clean, and easy to navigate**.
 
 **Shivansh Yadav**  
 Aspiring Data Analyst / Data Scientist  
+
 
